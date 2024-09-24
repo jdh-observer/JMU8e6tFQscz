@@ -1,0 +1,26 @@
+on:
+  pull_request:
+    types:
+      - closed
+name: GitHub Actions for notebook syncing
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    name: jupytext
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3
+      
+      - name: installing & running jupytext
+        run: |
+          pip install jupytext
+          jupytext --set-formats ipynb,md article.ipynb
+          jupytext --sync article.ipynb
+
+      - name: committing changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Automated commit
+          branch: ${{ github.ref }}
+          create_branch: false
