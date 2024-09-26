@@ -13,21 +13,6 @@ jupyter:
     name: ir
 ---
 
-analysing---
-jupyter:
-  jupytext:
-    formats: ipynb,md
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.14.4
-  kernelspec:
-    display_name: R
-    language: R
-    name: ir
----
-
 <!-- #region tags=["title"] -->
 # Chinese Political and Cultural Elites: Twentieth Century Transformations
 <!-- #endregion -->
@@ -710,177 +695,23 @@ display_png(file="./media/Fig18.png")
 <!-- #endregion -->
 
 <!-- #region jdh={"object": {"source": ["table 10: Some ego network basic measures: Size (size of ego network), Ties (number of ties), Density (ties/no. possible), Reach efficiency (2-step reach divided by max possible given degrees of alters), Broker (no. pairs not directly connected), Normalized Broker (broker/number of pairs), EgoBetweenness (betweenness in own ego network)."], "type": "table"}} tags=["hermeneutics", "table-10", "anchor-table-10"] -->
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0lax">Name</th>
-    <th class="tg-0lax">Size</th>
-    <th class="tg-0lax">Ties</th>
-    <th class="tg-0lax">Density</th>
-    <th class="tg-0lax">ReachEff</th>
-    <th class="tg-0lax">Broker</th>
-    <th class="tg-0lax">nBroker</th>
-    <th class="tg-0lax">EgoBet</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">He Changgong</td>
-    <td class="tg-0lax">194</td>
-    <td class="tg-0lax">28764</td>
-    <td class="tg-0lax">76.8228</td>
-    <td class="tg-0lax">0.6697</td>
-    <td class="tg-0lax">4339</td>
-    <td class="tg-0lax">0.2318</td>
-    <td class="tg-0lax">66.0541</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Jiang Zemin_1</td>
-    <td class="tg-0lax">194</td>
-    <td class="tg-0lax">28764</td>
-    <td class="tg-0lax">76.8228</td>
-    <td class="tg-0lax">0.6697</td>
-    <td class="tg-0lax">4339</td>
-    <td class="tg-0lax">0.2318</td>
-    <td class="tg-0lax">66.0541</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Nie Rongzhen</td>
-    <td class="tg-0lax">194</td>
-    <td class="tg-0lax">28764</td>
-    <td class="tg-0lax">76.8228</td>
-    <td class="tg-0lax">0.6697</td>
-    <td class="tg-0lax">4339</td>
-    <td class="tg-0lax">0.2318</td>
-    <td class="tg-0lax">66.0541</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Xiong Weigeng</td>
-    <td class="tg-0lax">194</td>
-    <td class="tg-0lax">28764</td>
-    <td class="tg-0lax">76.8228</td>
-    <td class="tg-0lax">0.6697</td>
-    <td class="tg-0lax">4339</td>
-    <td class="tg-0lax">0.2318</td>
-    <td class="tg-0lax">66.0541</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Fang Ditang</td>
-    <td class="tg-0lax">193</td>
-    <td class="tg-0lax">28548</td>
-    <td class="tg-0lax">77.0402</td>
-    <td class="tg-0lax">0.6723</td>
-    <td class="tg-0lax">4178</td>
-    <td class="tg-0lax">0.2296</td>
-    <td class="tg-0lax">64.8588</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Yang Kairong</td>
-    <td class="tg-0lax">192</td>
-    <td class="tg-0lax">28418</td>
-    <td class="tg-0lax">77.4924</td>
-    <td class="tg-0lax">0.6738</td>
-    <td class="tg-0lax">4178</td>
-    <td class="tg-0lax">0.2251</td>
-    <td class="tg-0lax">61.9975</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">He Chaodong</td>
-    <td class="tg-0lax">191</td>
-    <td class="tg-0lax">27934</td>
-    <td class="tg-0lax">76.9744</td>
-    <td class="tg-0lax">0.6796</td>
-    <td class="tg-0lax">4254</td>
-    <td class="tg-0lax">0.2303</td>
-    <td class="tg-0lax">64.1802</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Xu Shuping</td>
-    <td class="tg-0lax">191</td>
-    <td class="tg-0lax">27934</td>
-    <td class="tg-0lax">76.9744</td>
-    <td class="tg-0lax">0.6796</td>
-    <td class="tg-0lax">4127</td>
-    <td class="tg-0lax">0.2303</td>
-    <td class="tg-0lax">64.1802</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Liu Bojian</td>
-    <td class="tg-0lax">188</td>
-    <td class="tg-0lax">27284</td>
-    <td class="tg-0lax">77.6084</td>
-    <td class="tg-0lax">0.6877</td>
-    <td class="tg-0lax">3936</td>
-    <td class="tg-0lax">0.2239</td>
-    <td class="tg-0lax">60.2195</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Zhu Zexiang</td>
-    <td class="tg-0lax">188</td>
-    <td class="tg-0lax">27396</td>
-    <td class="tg-0lax">77.9270</td>
-    <td class="tg-0lax">0.6864</td>
-    <td class="tg-0lax">3880</td>
-    <td class="tg-0lax">0.2207</td>
-    <td class="tg-0lax">58.9872</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Yao Baozhi</td>
-    <td class="tg-0lax">126</td>
-    <td class="tg-0lax">15556</td>
-    <td class="tg-0lax">98.7683</td>
-    <td class="tg-0lax">0.9468</td>
-    <td class="tg-0lax">87</td>
-    <td class="tg-0lax">0.0123</td>
-    <td class="tg-0lax">0.9440</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Gao Xianying</td>
-    <td class="tg-0lax">69</td>
-    <td class="tg-0lax">4518</td>
-    <td class="tg-0lax">96.2916</td>
-    <td class="tg-0lax">1.9924</td>
-    <td class="tg-0lax">87</td>
-    <td class="tg-0lax">0.0371</td>
-    <td class="tg-0lax">1.9993</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Wei Zhaoqi</td>
-    <td class="tg-0lax">69</td>
-    <td class="tg-0lax">4518</td>
-    <td class="tg-0lax">96.2916</td>
-    <td class="tg-0lax">1.9924</td>
-    <td class="tg-0lax">47</td>
-    <td class="tg-0lax">0.0371</td>
-    <td class="tg-0lax">1.9993</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Lü Huanyi</td>
-    <td class="tg-0lax">66</td>
-    <td class="tg-0lax">4196</td>
-    <td class="tg-0lax">97.8089</td>
-    <td class="tg-0lax">2.1013</td>
-    <td class="tg-0lax">97</td>
-    <td class="tg-0lax">0.0219</td>
-    <td class="tg-0lax">2.4737</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Xing Xiazhong</td>
-    <td class="tg-0lax">19</td>
-    <td class="tg-0lax">338</td>
-    <td class="tg-0lax">98.8304</td>
-    <td class="tg-0lax">6.7086</td>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">0.0117</td>
-    <td class="tg-0lax">0.1111</td>
-  </tr>
-</tbody></table>
+| Name          | Size | Ties  | Density | ReachEff | Broker | nBroker | EgoBet |
+|---------------|------|-------|---------|----------|--------|---------|--------|
+| He Changgong  | 194  | 28764 | 76.8228 | 0.6697   | 4339   | 0.2318  | 66.0541|
+| Jiang Zemin_1 | 194  | 28764 | 76.8228 | 0.6697   | 4339   | 0.2318  | 66.0541|
+| Nie Rongzhen  | 194  | 28764 | 76.8228 | 0.6697   | 4339   | 0.2318  | 66.0541|
+| Xiong Weigeng | 194  | 28764 | 76.8228 | 0.6697   | 4339   | 0.2318  | 66.0541|
+| Fang Ditang   | 193  | 28548 | 77.0402 | 0.6723   | 4178   | 0.2296  | 64.8588|
+| Yang Kairong  | 192  | 28418 | 77.4924 | 0.6738   | 4178   | 0.2251  | 61.9975|
+| He Chaodong   | 191  | 27934 | 76.9744 | 0.6796   | 4254   | 0.2303  | 64.1802|
+| Xu Shuping    | 191  | 27934 | 76.9744 | 0.6796   | 4127   | 0.2303  | 64.1802|
+| Liu Bojian    | 188  | 27284 | 77.6084 | 0.6877   | 3936   | 0.2239  | 60.2195|
+| Zhu Zexiang   | 188  | 27396 | 77.9270 | 0.6864   | 3880   | 0.2207  | 58.9872|
+| Yao Baozhi    | 126  | 15556 | 98.7683 | 0.9468   | 87     | 0.0123  | 0.9440 |
+| Gao Xianying  | 69   | 4518  | 96.2916 | 1.9924   | 87     | 0.0371  | 1.9993 |
+| Wei Zhaoqi    | 69   | 4518  | 96.2916 | 1.9924   | 47     | 0.0371  | 1.9993 |
+| Lü Huanyi     | 66   | 4196  | 97.8089 | 2.1013   | 97     | 0.0219  | 2.4737 |
+| Xing Xiazhong | 19   | 338   | 98.8304 | 6.7086   | 2      | 0.0117  | 0.1111 |
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
