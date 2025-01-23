@@ -18,17 +18,19 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
- ### anonym
+ ### Marilyn Levine [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8226-412X) 
+ Central Washington University
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### anonym
-
+### Heidi Huang Yu 
+Center for Europeans Studies,
+The School of International Studies, Sun Yatsen University
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
 [![cc-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-©<anonym>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+© Marilyn Levine - Heidi Huang Yu. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 <!-- #endregion -->
 
 <!-- #region tags=["disclaimer"] -->
