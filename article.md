@@ -247,7 +247,7 @@ In addition to the general provincial participation, the pattern of student prov
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
-Numerical participation, compared with population, did show a general correlation, regression analysis had an R(²) of 0.2342 and a p-value of 0.031 was insufficient due to outliers and some with great leverage. There were several provinces that were far out of the 68% confidence limit, i.e., Guangdong, Hunan, Jiangsu, and Shandong making any conclusion that participation followed with larger provincial population was unacceptable, which is not surprising since emigration or temporary emigration to Europe was probably not due a single causal factor. Density as a predictor was worse than population, R(²)=0.0164 and p=0.592.
+Numerical participation, compared with population, did show a general correlation, regression analysis had an R² of 0.2342 and a p-value of 0.031 was insufficient due to outliers and some with great leverage. There were several provinces that were far out of the 68% confidence limit, i.e., Guangdong, Hunan, Jiangsu, and Shandong making any conclusion that participation followed with larger provincial population was unacceptable, which is not surprising since emigration or temporary emigration to Europe was probably not due a single causal factor. Density as a predictor was worse than population, R²=0.0164 and p=0.592.
 <!-- #endregion -->
 
 <!-- #region jdh={"object": {"source": ["table 4: Provincial origin and educational attendance (N=187) for the CSE group and some political affiliation data. There are seven individuals missing province data."], "type": "table"}} tags=["table-4", "hermeneutics", "anchor-table-4"] -->
