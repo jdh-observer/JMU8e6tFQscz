@@ -1,15 +1,17 @@
-# Report for anonym_chinese_students_europe.ipynb ❤ 
+# Report for article.ipynb ❤ 
+
+Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
 
 ## Cell Counts   
-**all cells: 126 **  
+**all cells: 157**  
 code_empty: 0   
-markdown: 111   
-code: 15   
+markdown: 139   
+code: 18   
 
 ## Action Outputs
 
 ### Size
-**total cells: 126**
+**total cells: 157**
 
 ### Citations Found with problem:
 - undefined
@@ -27,31 +29,47 @@ code: 15
 
 
 ### Check Output Sizes and Rules
-  - Valid tag: figure-1 for image output in cell 40
-  - Valid tag: figure-2 for image output in cell 42
-  - Valid tag: figure-3 for image output in cell 45
-  - Valid tag: figure-4 for image output in cell 49
-  - Valid tag: figure-5 for image output in cell 50
-  - Valid tag: figure-6 for image output in cell 60
-  - Valid tag: figure-7 for image output in cell 79
-  - Valid tag: figure-8 for image output in cell 80
-  - Valid tag: figure-9 for image output in cell 85
-- Output cell 85 size: 2592.58 KB
-> First words of input cell: library("IRdisplay") display_png(file="./media/Fig.9.jpg")
-  - Valid tag: figure-10 for image output in cell 86
-- Output cell 86 size: 1807.99 KB
-> First words of input cell: library("IRdisplay") display_png(file="./media/Fig.10.jpg")
-  - Valid tag: figure-11 for image output in cell 97
-- Output cell 97 size: 1663.35 KB
-> First words of input cell: library("IRdisplay") display_png(file="./media/Fig.11.png")
-  - Valid tag: figure-12 for image output in cell 99
-  - Valid tag: figure-13 for image output in cell 100
-  - Valid tag: figure-14 for image output in cell 102
-  - Valid tag: figure-15 for image output in cell 104
+- Output cell 121 size: 1083.54 KB
+> First words of input cell: library("IRdisplay") display_png(file="./media/Fig14.png")
 
-Total output size: 10657.40 KB
-Total number of images: 15
+Total output size: 6626.18 KB
+Total number of images: 18
 Total number of tables: 0
+Total number of audios: 0
+
+| Mimetype | Presence |
+| --- | --- |
+| text/html | False |
+| text/plain | False |
+| image/png | True |
+| audio | False |
+
+| Output type | Presence |
+| --- | --- |
+| display_data | True |
+| execute_result | False |
+
+| Tag | Cell | Remark |
+| --- | --- | --- |
+| image/png | 44 | Correct tagging |
+| image/png | 46 | Correct tagging |
+| image/png | 62 | Correct tagging |
+| image/png | 64 | Correct tagging |
+| image/png | 67 | Correct tagging |
+| image/png | 68 | Correct tagging |
+| image/png | 69 | Correct tagging |
+| image/png | 77 | Correct tagging |
+| image/png | 82 | Correct tagging |
+| image/png | 102 | Correct tagging |
+| image/png | 103 | Correct tagging |
+| image/png | 107 | Correct tagging |
+| image/png | 109 | Correct tagging |
+| image/png | 121 | Correct tagging |
+| image/png | 123 | Correct tagging |
+| image/png | 125 | Correct tagging |
+| image/png | 127 | Correct tagging |
+| image/png | 130 | Correct tagging |
+
 
 ### Check HTML
 
@@ -62,103 +80,177 @@ No JavaScript code found in output cells.
 
 ### Check Tags
 - Cell 1: Tags: ['title']
-- Cell 2: Tags: ['keywords']
-- Cell 3: Tags: ['abstract']
-- Cell 8: Tags: ['hermeneutics', 'narrative']
-- Cell 10: Tags: ['hermeneutics', 'narrative']
-- Cell 11: Tags: ['hermeneutics', 'narrative']
+- Cell 2: Tags: ['contributor']
+- Cell 3: Tags: ['contributor']
+- Cell 4: Tags: ['copyright']
+- Cell 5: Tags: ['disclaimer']
+- Cell 6: Tags: ['keywords']
+- Cell 7: Tags: ['abstract']
 - Cell 12: Tags: ['hermeneutics', 'narrative']
-- Cell 13: Tags: ['hermeneutics', 'narrative']
 - Cell 14: Tags: ['hermeneutics', 'narrative']
-- Cell 15: Tags: ['table-1', 'hermeneutics']
-- Cell 28: Tags: ['hermeneutics', 'narrative']
-- Cell 32: Tags: ['hermeneutics']
-- Cell 34: Tags: ['hermeneutics']
-- Cell 35: Tags: ['hermeneutics']
-- Cell 36: Tags: ['hermeneutics', 'narrative']
-- Cell 37: Tags: ['table-2', 'hermeneutics']
-- Cell 38: Tags: ['hermeneutics', 'narrative']
-- Cell 39: Tags: ['hermeneutics', 'narrative']
-- Cell 40: Tags: ['figure-1', 'hermeneutics']
-- Cell 41: Tags: ['hermeneutics', 'narrative']
-- Cell 42: Tags: ['figure-2', 'hermeneutics']
+- Cell 15: Tags: ['hermeneutics', 'narrative']
+- Cell 16: Tags: ['hermeneutics', 'narrative']
+- Cell 17: Tags: ['table-1', 'hermeneutics', 'anchor-table-1']
+  - Invalid tag: anchor-table-1
+- Cell 18: Tags: ['hermeneutics', 'narrative']
+- Cell 19: Tags: ['hermeneutics', 'narrative']
+- Cell 36: Tags: ['hermeneutics']
+- Cell 40: Tags: ['hermeneutics', 'narrative']
+- Cell 41: Tags: ['table-2', 'hermeneutics', 'anchor-table-2']
+  - Invalid tag: anchor-table-2
+- Cell 42: Tags: ['hermeneutics', 'narrative']
 - Cell 43: Tags: ['hermeneutics', 'narrative']
-- Cell 44: Tags: ['hermeneutics', 'narrative']
-- Cell 45: Tags: ['figure-3']
-- Cell 46: Tags: ['hermeneutics', 'narrative']
-- Cell 47: Tags: ['table-3', 'hermeneutics']
-- Cell 48: Tags: ['narrative', 'hermeneutics']
-- Cell 49: Tags: ['figure-4', 'hermeneutics']
-- Cell 50: Tags: ['figure-5', 'hermeneutics']
+- Cell 44: Tags: ['figure-1', 'hermeneutics']
+- Cell 45: Tags: ['hermeneutics', 'narrative']
+- Cell 46: Tags: ['figure-2', 'hermeneutics']
+- Cell 49: Tags: ['hermeneutics', 'narrative']
+- Cell 50: Tags: ['table-3', 'hermeneutics', 'anchor-table-3']
+  - Invalid tag: anchor-table-3
 - Cell 51: Tags: ['hermeneutics', 'narrative']
 - Cell 52: Tags: ['hermeneutics', 'narrative']
-- Cell 53: Tags: ['hermeneutics', 'narrative']
-- Cell 54: Tags: ['hermeneutics']
-- Cell 55: Tags: ['hermeneutics']
-- Cell 56: Tags: ['hermeneutics']
-- Cell 57: Tags: ['hermeneutics']
-- Cell 58: Tags: ['hermeneutics']
+- Cell 53: Tags: ['table-4', 'hermeneutics', 'anchor-table-4']
+  - Invalid tag: anchor-table-4
+- Cell 54: Tags: ['hermeneutics', 'narrative']
+- Cell 56: Tags: ['table-5', 'hermeneutics', 'anchor-table-5']
+  - Invalid tag: anchor-table-5
+- Cell 58: Tags: ['hermeneutics', 'narrative']
 - Cell 59: Tags: ['hermeneutics', 'narrative']
-- Cell 60: Tags: ['figure-6', 'hermeneutics']
-- Cell 61: Tags: ['table-4', 'hermeneutics']
-- Cell 62: Tags: ['narrative', 'hermeneutics']
-- Cell 63: Tags: ['narrative', 'hermeneutics']
-- Cell 64: Tags: ['narrative', 'hermeneutics']
-- Cell 65: Tags: ['narrative', 'hermeneutics']
-- Cell 66: Tags: ['narrative', 'hermeneutics']
-- Cell 67: Tags: ['narrative', 'hermeneutics']
-- Cell 68: Tags: ['narrative', 'hermeneutics']
-- Cell 69: Tags: ['narrative', 'hermeneutics']
-- Cell 70: Tags: ['hermeneutics']
-- Cell 71: Tags: ['hermeneutics']
-- Cell 72: Tags: ['hermeneutics']
+- Cell 60: Tags: ['hermeneutics', 'narrative']
+- Cell 61: Tags: ['hermeneutics', 'narrative']
+- Cell 62: Tags: ['hermeneutics', 'figure-3', 'narrative', 'anchor-figure-3']
+  - Invalid tag: anchor-figure-3
+- Cell 63: Tags: ['hermeneutics', 'narrative']
+- Cell 64: Tags: ['hermeneutics', 'narrative', 'figure-4', 'anchor-figure-4']
+  - Invalid tag: anchor-figure-4
+- Cell 65: Tags: ['hermeneutics', 'narrative']
+- Cell 67: Tags: ['hermeneutics', 'narrative', 'figure-5']
+- Cell 68: Tags: ['hermeneutics', 'narrative', 'figure-6']
+- Cell 69: Tags: ['hermeneutics', 'narrative', 'figure-7']
+- Cell 70: Tags: ['hermeneutics', 'narrative']
+- Cell 71: Tags: ['hermeneutics', 'narrative']
+- Cell 72: Tags: ['hermeneutics', 'narrative']
 - Cell 73: Tags: ['hermeneutics']
 - Cell 74: Tags: ['hermeneutics']
 - Cell 75: Tags: ['hermeneutics']
-- Cell 76: Tags: ['table-5', 'hermeneutics']
-- Cell 77: Tags: ['hermeneutics', 'narrative']
+- Cell 76: Tags: ['hermeneutics']
+- Cell 77: Tags: ['hermeneutics', 'narrative', 'figure-8', 'anchor-figure-8']
+  - Invalid tag: anchor-figure-8
 - Cell 78: Tags: ['hermeneutics']
-- Cell 79: Tags: ['figure-7', 'hermeneutics']
-- Cell 80: Tags: ['figure-8', 'hermeneutics']
-- Cell 81: Tags: ['hermeneutics', 'narrative']
-- Cell 82: Tags: ['hermeneutics', 'narrative']
+- Cell 79: Tags: ['hermeneutics', 'narrative']
+- Cell 80: Tags: ['table-6', 'hermeneutics', 'anchor-table-6']
+  - Invalid tag: anchor-table-6
+- Cell 81: Tags: ['hermeneutics']
+- Cell 82: Tags: ['hermeneutics', 'figure-9', 'anchor-figure-9']
+  - Invalid tag: anchor-figure-9
 - Cell 83: Tags: ['hermeneutics']
 - Cell 84: Tags: ['hermeneutics']
-- Cell 85: Tags: ['figure-9', 'hermeneutics']
-- Cell 86: Tags: ['figure-10', 'hermeneutics']
-- Cell 87: Tags: ['hermeneutics']
-- Cell 89: Tags: ['hermeneutics']
-- Cell 90: Tags: ['hermeneutics', 'narrative']
-- Cell 91: Tags: ['table-6', 'hermeneutics']
-- Cell 92: Tags: ['narrative', 'hermeneutics']
-- Cell 93: Tags: ['narrative', 'hermeneutics']
-- Cell 94: Tags: ['narrative', 'hermeneutics']
-- Cell 95: Tags: ['hermeneutics', 'narrative']
-- Cell 96: Tags: ['hermeneutics', 'narrative']
-- Cell 97: Tags: ['figure-11', 'hermeneutics']
-- Cell 98: Tags: ['hermeneutics', 'narrative']
-- Cell 99: Tags: ['figure-12', 'hermeneutics']
-- Cell 100: Tags: ['figure-13', 'hermeneutics']
-- Cell 101: Tags: ['hermeneutics', 'narrative']
-- Cell 102: Tags: ['figure-14']
-- Cell 103: Tags: ['hermeneutics', 'narrative']
-- Cell 104: Tags: ['figure-15']
+- Cell 85: Tags: ['table-7', 'hermeneutics', 'anchor-table-7']
+  - Invalid tag: anchor-table-7
+- Cell 92: Tags: ['hermeneutics']
+- Cell 93: Tags: ['hermeneutics']
+- Cell 94: Tags: ['hermeneutics']
+- Cell 95: Tags: ['hermeneutics']
+- Cell 96: Tags: ['hermeneutics']
+- Cell 97: Tags: ['hermeneutics']
+- Cell 98: Tags: ['hermeneutics']
+- Cell 99: Tags: ['hermeneutics', 'table-8']
+- Cell 100: Tags: ['hermeneutics', 'narrative']
+- Cell 101: Tags: ['hermeneutics']
+- Cell 102: Tags: ['hermeneutics', 'figure-10', 'anchor-figure-10']
+  - Invalid tag: anchor-figure-10
+- Cell 103: Tags: ['hermeneutics', 'figure-11']
+- Cell 104: Tags: ['hermeneutics', 'narrative']
 - Cell 105: Tags: ['hermeneutics', 'narrative']
-- Cell 122: Tags: ['table-7', 'hermeneutics']
-- Cell 123: Tags: ['table-8', 'hermeneutics']
-- Cell 124: Tags: ['hidden']
-- Cell 125: Tags: ['hidden']
-- Cell 126: Tags: ['hidden']
-
-**WARNING: The following tags are missing or invalid:**
+- Cell 106: Tags: ['hermeneutics']
+- Cell 107: Tags: ['hermeneutics', 'figure-12', 'anchor-figure-12']
+  - Invalid tag: anchor-figure-12
+- Cell 108: Tags: ['hermeneutics']
+- Cell 109: Tags: ['hermeneutics', 'figure-13', 'anchor-figure-13']
+  - Invalid tag: anchor-figure-13
+- Cell 110: Tags: ['hermeneutics']
+- Cell 112: Tags: ['hermeneutics']
+- Cell 113: Tags: ['hermeneutics', 'narrative']
+- Cell 114: Tags: ['hermeneutics', 'table-9', 'anchor-table-9']
+  - Invalid tag: anchor-table-9
+- Cell 115: Tags: ['narrative', 'hermeneutics']
+- Cell 116: Tags: ['narrative', 'hermeneutics']
+- Cell 117: Tags: ['narrative', 'hermeneutics']
+- Cell 118: Tags: ['narrative', 'hermeneutics']
+- Cell 119: Tags: ['hermeneutics', 'narrative']
+- Cell 120: Tags: ['hermeneutics', 'narrative']
+- Cell 121: Tags: ['hermeneutics', 'figure-14', 'anchor-figure-14']
+  - Invalid tag: anchor-figure-14
+- Cell 122: Tags: ['hermeneutics', 'narrative']
+- Cell 123: Tags: ['figure-15', 'hermeneutics', 'anchor-figure-15']
+  - Invalid tag: anchor-figure-15
+- Cell 124: Tags: ['hermeneutics', 'narrative']
+- Cell 125: Tags: ['figure-16', 'hermeneutics', 'anchor-figure-16']
+  - Invalid tag: anchor-figure-16
+- Cell 126: Tags: ['hermeneutics', 'narrative']
+- Cell 127: Tags: ['figure-17', 'hermeneutics']
+- Cell 128: Tags: ['hermeneutics', 'narrative']
+- Cell 130: Tags: ['figure-18', 'hermeneutics', 'anchor-fogure-18']
+  - Invalid tag: anchor-fogure-18
+- Cell 131: Tags: ['hermeneutics', 'narrative']
+- Cell 132: Tags: ['hermeneutics', 'table-10', 'anchor-table-10']
+  - Invalid tag: anchor-table-10
+- Cell 133: Tags: ['hermeneutics', 'narrative']
+- Cell 134: Tags: ['hermeneutics', 'narrative']
+- Cell 135: Tags: ['hermeneutics', 'narrative']
+- Cell 136: Tags: ['hermeneutics', 'narrative']
+- Cell 137: Tags: ['hermeneutics', 'narrative']
+- Cell 155: Tags: ['table-11', 'anchor-table-11']
+  - Invalid tag: anchor-table-11
+- Cell 156: Tags: ['table-12', 'anchor-table-12']
+  - Invalid tag: anchor-table-12
+> [!WARNING]
+> The following tags are missing or invalid
 
 #### Missing Tags:
-- contributor
 - cover
-- copyright
+
+#### Invalid Tags:
+- anchor-table-1
+- anchor-table-2
+- anchor-table-3
+- anchor-table-4
+- anchor-table-5
+- anchor-figure-3
+- anchor-figure-4
+- anchor-figure-8
+- anchor-table-6
+- anchor-figure-9
+- anchor-table-7
+- anchor-figure-10
+- anchor-figure-12
+- anchor-figure-13
+- anchor-table-9
+- anchor-figure-14
+- anchor-figure-15
+- anchor-figure-16
+- anchor-fogure-18
+- anchor-table-10
+- anchor-table-11
+- anchor-table-12
+> Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
 ### Check URLs
 
-No URLs found in the cells.
+
+**Impossible to verify (non-404 error code - 1):**
+
+Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
+
+> [!TIP]
+> Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
+
+
+**Valid URLs (200 - 5):**
+
+2. https://orcid.org/0000-0001-8226-412X
+3. https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+4. https://creativecommons.org/licenses/by-nc-nd/4.0/
+5. https://www.enpchina.eu/
+6. http://populstat.info/Asia/chinap.htm
 
