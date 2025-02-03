@@ -18,12 +18,12 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
- ### Marilyn Levine [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8226-412X) 
+ ### Marilyn Levine [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-8226-412X)
  Central Washington University
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### Heidi Huang Yu 
+### Heidi Huang Yu
 Center for Europeans Studies,
 The School of International Studies, Sun Yatsen University
 <!-- #endregion -->
@@ -45,7 +45,7 @@ Chinese Students in Europe, Institut Franco-Chinois de Lyon, Université du Trav
 The Chinese experienced dynamic changes in the twentieth century and few groups were as transitional as Chinese intellectuals. Grappling with new roles within the world of education and politics, there was an explosion of creative and diverse responses. This study will utilize data on 197 Chinese students who matriculated at four European universities, the Institut Franco-Chinois de Lyon, Université du Travail Charleroi, Université de Paris, and the Universität zu Berlin. The article will profile these students through a narrative of common experiences; statistical analyses of 205 different types of affiliation, geospatial analysis, and hierarchical cluster analysis; followed by network analyses (cohesion, triad, centrality) and network visualization. The data clearly show characteristic subgroups in geospatial subgroups, hierarchical clusters, and network subgroup analyses that align with known historical data. For example, the dispersion among these four institutions of students from Guangdong, Hunan, and Sichuan have discernable patterns, as do the selection of institution, and the participation in European branches of Chinese political parties by these Chinese students. The study also raises comparative generational questions, particularly about the life trajectories of Cai Yuanpei and Wang Jingwei and their relationship to these European institutions and Chinese higher education. Finally, the article illustrates how an historical integrative approach provides both new insights about how the Chinese political intellectuals had adapted individually and grouped together into political parties and political factions, while pursuing academic careers.
 <!-- #endregion -->
 
-# Introduction
+## Introduction
 
 
 *If our country has schools already, why does this organization advise people to travel abroad? There are several reasons. First the number of schools in our country is insufficient; . . .Second, the facilities of our schools are still incomplete, and the teaching personnel do not have the appropriate types of knowledge; . . . Last, regarding the facilities outside our schools like libraries, museums, botanical gardens and zoos, farm fields, and the number of factories, we have not established enough to properly give our student practical experience or reference materials. . . We must absolutely exhort our students to go abroad and study.* (Cai Yuanpei 蔡元培 (1917), *Speeches Presented at the Travel to France Frugal-Study Association Meeting*, p.177). (<cite data-cite="626961/MXCRWIRQ"></cite>)  
@@ -99,10 +99,10 @@ A key limitation of this study is that the CSE is not an exhaustive compilation 
 This article will profile the CSE group by a brief framing of the issues surrounding these intellectual activists, followed by a quantitative and network analyses of the CSE group. Three different research approaches are used in analyzing the CBD, after an overview profile of the CSE is presented. One, hierarchical cluster analysis (HCA) of all of the affiliations of the CSE students. Two, geospatial analysis based on latitude and longitude of birth location. Three, network analysis of the CSE students based on all of their affiliations. In each of these three types of analyses it is possible to use techniques to elucidate underlying structure and begin to address historical similarities. Lastly, among many different types of analyses, one method used for all three approaches was to determine subgroups or clusters and to avoid confusion here the use of the term “cluster” as a lone descriptor will be restricted to HCA, while geospatial subgroups will be termed geospatial clusters, and network subgroups simply as network subgroups. Finally, throughout the article, key individuals will be integrated with several mini-biographical portraits to give more depth to the analysis. The conclusion will discuss how the CSE group demonstrated the importance of individual histories, group interrelationships, and the broader advance of Chinese political intellectuals who lived in the twentieth century.
 
 
-# The Growth of Intellectual Activism among the Chinese Students Abroad
+## The Growth of Intellectual Activism among the Chinese Students Abroad
 
 
-## Transformations in the 20th Century and the Role of Chinese Political Intellectuals
+### Transformations in the 20th Century and the Role of Chinese Political Intellectuals
 
 
 Living during rapidly changing historical times is a challenge for most individuals because they are so impacted by those changes. For the Chinese people after the Sino-Japanese War in 1894-95 the challenges were enhanced by a sense of urgency spurred by national humiliation. The early century Qing reforms, local community empowerment, downfall of the dynastic system in the 1911 Revolution, and subsequent warlord period, among other events, displaced many traditional values, ironically resulting in a cultural flourishing, particularly among youth born at the turn of the century. Young Chinese, especially among the upper classes and those who could afford education, searched for a way to save their nation, and pursue their own futures. Intellectuals were seen as key national leaders (<cite data-cite="626961/2MBY485A"></cite>). The modern ideas and societies of the West became a beacon for thousands of Chinese youths who committed themselves to intellectual activism and became what Shakhar Rahav has called political intellectuals. Rahav defines these people as:
@@ -117,7 +117,7 @@ At a more granular level, Benjamin Elman elucidated the potentials of intellectu
 One could say that intellectuals throughout history have faced compelling reasons to seek their own *raison d'être* in personal and societal influences. This study is only a glimpse of a relatively small group of students to better illustrate the impacts of the influences and relationships surrounding them.
 
 
-## Ambassadors to the West: Chinese Youth in Europe After WWI
+### Ambassadors to the West: Chinese Youth in Europe After WWI
 
 
 In the case of the Chinese students who went to Europe there were many reasons to go abroad as Cai Yuanpei had exhorted, including their preconceptions of European intellectual and cultural trends and the educational options developed for them in the aftermath of World War I. Ruth Hayhoe in her comparative article on “The Cultural Dynamics of Sino-Western Educational Co-operation,” frames the different orientations between German, American, and French higher educational systems for the Chinese. Among the two European models, the Germans emphasized the applied sciences for modernization, even though the theoretical knowledge and professional training led to higher prestige. A second German approach was a blend of sciences and arts “with philosophy as a synthesizing discipline.” (<cite data-cite="626961/D7YWQNYV"></cite>, pp. 678–679). The French ideal was a focus on education in a grand mixture of disciplines for the modernization of the nation. The idea of the prestige of the intellectual as a public actor in the solidification of the state might have appealed to the Chinese. There are many statements on the affinities between the high cultures of China and France that support Hayhoe’s characterization of this mutual sense of common cultural orientations. For example, the following discerning observation was given by the Chief of the Chinese Labor Battalions, Louis Grillet, who in his closing report after World War I wrote in 1918:
@@ -147,10 +147,10 @@ This first section has briefly introduced the concept of the academic politician
 The idea of a more integrative approach – utilization of wider perspectives was suggested by Tsou Tang in his seminal work, “Interpreting the Revolution in China: Macrohistory and Micromechanisms.” Tsou remarked: “The general proposition is the following: the Chinese case shows that the processes of innovation, systematization, and strategic interaction in the choices made by the political actors are direct and readily observable micromechanisms leading to macrohistorical changes, particularly the transformation of one political system into another one.” (<cite data-cite="626961/38E5R87A"></cite>, p. 228). By utilizing narrative on the wide and small scale, quantitative and network analyses, it is contended that an enriched prosopography approach illuminates the environmental, social, and political choices of those students who became political intellectuals and those who chose to become revolutionaries.
 <!-- #endregion -->
 
-# A Multivariate Analysis of the CSE
+## A Multivariate Analysis of the CSE
 
 
-## A Profile of the CSE Group
+### A Profile of the CSE Group
 
 
 After briefly introducing the political intellectuals in the European study abroad during the interwar years, this section will statistically analyze the specific dataset of the CSE group who attended specific institutions in terms of selected attributes, birth and death years, geospatial origins, and similarities of attributes as expressed in hierarchical clustering.
@@ -184,7 +184,7 @@ After briefly introducing the political intellectuals in the European study abro
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
-## Analysis of Birth Year and Death Year
+### Analysis of Birth Year and Death Year
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
@@ -205,7 +205,7 @@ library("IRdisplay")
 display_png(file="./media/Fig2.png")
 ```
 
-## Analysis of Birthplace-Province and City
+### Analysis of Birthplace-Province and City
 
 
 Regional influence on individual identity and group formations is well-known in historical studies. This study also showed that provincial origin has some impact in the multivariate, geospatial, and network analyses. This section will explore in-depth provincial data.
@@ -375,7 +375,7 @@ In addition to the Guangdong students, there was a group of Sichuanese (N=16), a
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
-## Cluster Analysis of the CSE group
+### Cluster Analysis of the CSE group
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
@@ -496,7 +496,7 @@ In terms of the CSE group, there were radical groups at the IFCL who were monito
 The CSE data of students intertwined with so many others in a rich international environment. For some their education helped frame their learning towards a future as scholars and academics, as well as potential political intellectuals, while for others their extracurricular activities guided them towards different life pathways. For example, some IFCL students, following the path of the IFCL founders, became the most avid advocators of the Esperanto Movement that is intertwined with anarchist activities in early twentieth-century China (<cite data-cite="626961/MHMY2XCE"></cite>). The next section will examine the CSE group through the lens of network subgroup analysis.
 
 <!-- #region tags=["hermeneutics"] -->
-# Network Analyses of the CSE subgroups
+## Network Analyses of the CSE subgroups
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
@@ -516,7 +516,7 @@ Network analysis allows for a level of processing that the brain could not easil
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
-## Cohesion and Triad measures for the entire CSE group
+### Cohesion and Triad measures for the entire CSE group
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
@@ -581,7 +581,7 @@ display_png(file="./media/Fig13.png")
 While this section has explored the entire network and its patterns of cohesion and tie formations, with one focus study of the IFCL, the next two sections will analyse centrality measures and visualizations to delineate the importance of individual roles and relationships within the network structure.
 <!-- #endregion -->
 
-## Centrality Measures of the CSE group
+### Centrality Measures of the CSE group
 
 <!-- #region tags=["hermeneutics"] -->
 Networks frequently include key individuals who can be influential in several ways and identified by various methods. Centrality refers to a group of metrics that quantify the position of a node within a network in terms of number of ties and how those occur throughout for each node. The centrality measures utilized in the tables below include:
@@ -642,7 +642,7 @@ Peng Xiang’s position also is intriguing for his Eigenvector centrality, i.e. 
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
-## Network Internal Measures for the CSE group and the Ego Network of Nie Rongzhen
+### Network Internal Measures for the CSE group and the Ego Network of Nie Rongzhen
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics", "narrative"] -->
@@ -736,7 +736,7 @@ When examining the top ten brokerage individuals it was noted that they all atte
 Lastly, we see ego betweenness within each ego network and Nie Rongzhen’s high betweenness is repeated here as it was for the entire CSE network where he was highest in [Table 9](#anchor-table-9). Clearly Nie utilized broker behavior consistently and perhaps both Nie Rongzhen and Xiong Weigeng (who also had high brokerage) both used strong brokerage behavior and may have recognized responsibilities to each other, even years later. In Egocentric analysis there is a process called activation of latent ties that looks likely to have operated when Nie Rongzhen helped to restore Xiong Weigeng’s legacy decades after their last contact. According to Perry, et.al., the latent power of the relationship “represents a crucial coping mechanism for individuals facing unfamiliar challenges and periods of elevated support need.”(<cite data-cite="626961/QDEKCN8K"></cite>, p. 249).
 <!-- #endregion -->
 
-# Conclusion: Academics, Activists, and Revolutionaries
+## Conclusion: Academics, Activists, and Revolutionaries
 
 
 Chinese students at four institutions were studied in this article: the Institut Franco-Chinois (IFCL), Université du Travail Charleroi (UTC), the Université de Paris (UP), and the Universität zu Berlin (UB), collectively called the CSE group (N=197). The article adopted a multiple but integrative approach, exploring these groups through historical narrative, quantitative, and network analyses. Although some of the data was sparse for some groups, the article developed the case for a linkage between academic culture and politics in the microcosm of important issues that surrounded these students, many of whom became political intellectuals, and some of whom became revolutionaries.
@@ -745,7 +745,7 @@ Chinese students at four institutions were studied in this article: the Institut
 These Chinese students were engaged in education and politics abroad in Europe during a decade full of challenge and opportunity. They were encouraged by progressive elders in the work-study movement, who also specialized in educational enterprises like IFCL and the exchanges at UTC. Therefore, there were the worker-students who were predisposed to view their education in terms of factory labor and college to save the nation with what they would learn about the applied sciences or the realm of social sciences and the arts. The other group were those who wanted to attain their educational degrees with the idea that the social revolution of education, science, and the arts were more important than ideological commitment. The former group had individuals who became revolutionaries and the latter group had individuals who became political intellectuals. While the revolutionaries lived a life of danger, the political intellectuals were more rooted in the solidity of their professional careers in the halls of teaching and research institutions. The CSE group and issues of politicization and personal destiny, generational transitions, and the utility of an integrative approach to historical studies will be discussed in this conclusion.
 
 
-## Political Intellectuals and Personal Destiny
+### Political Intellectuals and Personal Destiny
 
 
 The most significant fact of this small group study is that, even with limited data on the UTC, is that political participation affected the majority of these individuals in the CSE group who adopted a known political affiliation during their periods of study. From what is known of the political participation the CSE group had 71 EGMD, 37 ECCO, 8 SDP, 7 GYS, and 4 QND members. These students were active in a very dynamic swirl of political activities, while pursuing their studies. Members of the EGMD and ECCO also came under the scrutiny of the French police and even by French administrators. However, for members of the GYS, SDP or the QND they did not appear to have suffered many consequences for their political party participation during their stay in Europe.
@@ -760,7 +760,7 @@ For members of the EGMD 1927 was a turning point. As mentioned, the EGMD had spl
 Nie Rongzhen had academic aspirations to become a chemist. Although Nie was closely aligned with his Jiangjin, Sichuan set of friends, he also made broader contacts and was seen as a leader by those contacts, who encouraged him to join the ECCO. Ultimately, Nie Rongzhen made a conscious decision to abandon his studies and become a revolutionary. His contributions as a revolutionary in the realms of political, military, and post-1949 administrative leadership were manifold, and this is reflected in both his unique positions in the cluster and network analyses (X. Li, personal communication, October 25, 1985) (<cite data-cite="626961/EYP3RMGJ"></cite>).
 
 
-## Generational Issues and Political Intellectuals
+### Generational Issues and Political Intellectuals
 
 
 Political intellectuals were energized by the New Culture age and transnational cultural explorations shaped by European characteristics and Chinese perceptions of Europe. Certainly, the generation born between 1895 and 1906, as evidenced in this study demonstrated a dynamic of national purpose and a genuine openness to identity transformation. The social network analysis demonstrated that the impact of provincial origin, birth city, and birth year were intertwined with choices on work-study, frugal-study, and how seriously to pursue their education. Clearly, within the CSE group, the biggest contingent decided to focus on their studies with only 5% joining the revolutionaries, 5% becoming political leaders, and we know at a minimum, 38% joined the academic profession.
@@ -772,7 +772,7 @@ However, study of the CSE group also is intriguing for another generational issu
 On the other side of the scale of these “giants” of Chinese twentieth century education, there is the case of Wang Jingwei, who like Cai Yuanpei, was particularly influenced by the French during the 1920s. In fact, Wang’s influence on the IFCL was to encourage the left EGMD, even after the Wuhan split of 1927. The EGMD newspapers published Wang’s views of how to create a more egalitarian economy and society. Handwritten articles were mimeographed such as “Yige genben guannian” (一個根本觀念, A Fundamental Concept) and other justifications for the break with the CCP and Jiang’s GMD (<cite data-cite="626961/GEVR2QEZ"></cite>, <cite data-cite="626961/CL4AYSZY"></cite>, <cite data-cite="626961/X9J4IWJL"></cite>).Some French diplomats, after the death of Sun Yatsen in 1925, had judged that Wang Jingwei was the perfect leader for the GMD and his relations remained strong with France. Wang Jingwei went to France and stayed in Paris and Lyon after the Wuhan split. Although Wang negotiated with the Japanese on a possible collaborationist government in the late 1930s, was it just a coincidence that his actual date of collaboration occurred after the French surrender to the Germans in January 1940? Was there any communication that encouraged this collaboration on either the Chinese or French side that recognized the strength of a previous relationship? How helpful to Wang in coordinating a collaborationist government were the ties of the administrators and students from the IFCL as well as other Chinese officials having served long years in France? At least three of these people, Zeng Zhongming, Chen Lu, and Chu Minyi worked for Wang in the collaborationist regime. The Wang Jingwei-Vichy ties need greater clarity, especially given France’s enormous interest in their Indochina colony. Wang may have served a key bridging role in the dual colonial yoke of Japan and France in Indochina during WWII. Why did Wang Jingwei go to Hanoi during this period of time? How was Wang helped by the Chinese then in France and returnees from France? The lines of transcultural influence and of the personal networks as outlined in this study suggest that these ties mattered not only to the younger generation but would be useful to explore for the older generations, especially at the turning points of 1927 and 1940.
 
 
-## An Integrative Approach to Chinese Political History
+### An Integrative Approach to Chinese Political History
 
 
 Even with limited data for some of these institutions the number of individuals (N=197) and affiliations (N=205) help to increase our understanding of Chinese political history. One of the advantages of using quantitative, multivariate, geospatial, and network analyses is that it allows the historian to view both the individual and the group levels of history. For example, provincial affiliations such as Guangdong, were examined as to how they related to the specific institutions. The fact that Guangdong played almost no role in the UP and UB groups as illustrated in the provincial analysis and as displayed in Louvain subgroup one was significant because this group had the largest percentage of CCP members. Perhaps the Guangdong individuals tended to be more conservative or to follow the left EGMD. It is just as significant that the IFCL had the largest contingent of Guangdong individuals, who constituted 35% of the IFCL group and included only one revolutionary out of 88 individuals in the Louvain cluster.
@@ -874,14 +874,4 @@ In conclusion, this study has suggested new ways to view individual and group pr
 | Kuang Hongru       | 况鸿儒              | Wu Jifan           | 吳季藩              |                    |                     |
 <!-- #endregion -->
 
-<!-- #region tags=["hidden"] -->
-# Bibliography
-<!-- #endregion -->
-
-<!-- #region tags=["hidden"] -->
 <div class="cite2c-biblio"></div>
-<!-- #endregion -->
-
-<!-- #region tags=["hidden"] -->
-Type Markdown and LaTeX:  𝛼2
-<!-- #endregion -->
