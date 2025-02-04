@@ -874,4 +874,6 @@ In conclusion, this study has suggested new ways to view individual and group pr
 | Kuang Hongru       | 况鸿儒              | Wu Jifan           | 吳季藩              |                    |                     |
 <!-- #endregion -->
 
+<!-- #region tags=["hidden"] -->
 <div class="cite2c-biblio"></div>
+<!-- #endregion -->
